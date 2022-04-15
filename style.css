@@ -1,0 +1,29 @@
+
+body
+{
+    background-color: #ffc; 
+}
+
+.form-group textarea
+{
+    background-color: #ffc;
+}
+.card
+{
+    border: solid rgb(78, 78, 78);
+    border-width: 1px;
+    max-width:fit-content;
+    background-color: #ffc;
+
+}
+button  
+{
+    background-color: antiquewhite;
+    border-radius: 20px ;
+}
+
+button:hover
+{
+    background-color: rgb(243, 207, 160) ;
+    border-width: 3px;
+}
